@@ -4,5 +4,8 @@
     "node_modules/**/*",
     "dist/**/*",
     "src/styles.scss"
-  ]
+  ],
+  "rules": {
+    "no-empty-source": null
+  }
 }
